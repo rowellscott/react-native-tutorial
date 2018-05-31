@@ -4147,6 +4147,14 @@ react-is@^16.3.1:
   version "16.4.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.4.0.tgz#cc9fdc855ac34d2e7d9d2eb7059bbc240d35ffcf"
 
+react-native-immediate-phone-call@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-immediate-phone-call/-/react-native-immediate-phone-call-1.0.0.tgz#ad1f5e2bd686a1a495ed68e8a4c96205bdfa2247"
+
+react-native-phone-call@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/react-native-phone-call/-/react-native-phone-call-1.0.6.tgz#354ba3c7737702ba7487fffd3cea979131b4640a"
+
 react-native@0.55.4:
   version "0.55.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.55.4.tgz#eecffada3750a928e2ddd07cf11d857ae9751c30"

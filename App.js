@@ -11,7 +11,8 @@ import {
   Text,
   View
 } from 'react-native';
-import ComponentOne from'./app/components/ComponentOne/ComponentOne'
+import ComponentOne from'./app/components/ComponentOne/ComponentOne';
+
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -22,6 +23,7 @@ const instructions = Platform.select({
 
 type Props = {};
 export default class App extends Component<Props> {
+
   render() {
     return (
       <View style={styles.container}>

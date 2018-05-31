@@ -5,6 +5,8 @@ import {
   Text,
   View
 } from 'react-native';
+import call from 'react-native-phone-call'
+
 
 
 type Props = {};
